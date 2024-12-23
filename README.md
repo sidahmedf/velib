@@ -10,7 +10,7 @@ Le projet **Vélos Libre Service** est une simulation d’un système de locatio
 ### Récupérer les sources du projet  
    
 ```
-git clone https://gitlab-etu.fil.univ-lille.fr/guillaume.ponsdesserre.etu/coo-2024-2025
+git clone https://github.com/sidahmedf/velib/
 ```
 
 ### Génération de la documentation : 
