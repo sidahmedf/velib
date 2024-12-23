@@ -5,10 +5,6 @@
 
 Le projet **Vélos Libre Service** est une simulation d’un système de location de vélos en libre-service, inspiré des dispositifs tels que les Vélib ou V’Lille. Ce projet a été développé dans le cadre de l’UE **Conception Orientée Objet**, une UE de L3 Informatique l’Université de Lille, durant l’année universitaire 2024-2025. 
 
-Ce projet a été réalisé par :  
-- Guillaume Ponsdesserre  
-- Sid Ahmed FERROUDJ 
-
 ## Rubrique HowTo
 
 ### Récupérer les sources du projet  
